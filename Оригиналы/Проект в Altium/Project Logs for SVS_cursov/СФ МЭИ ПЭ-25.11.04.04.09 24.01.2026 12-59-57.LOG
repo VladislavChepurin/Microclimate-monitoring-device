@@ -1,0 +1,19 @@
+Change Component Comment: Designator=C1 Old Comment==ValueManufacturerPartNumber New Comment=Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Change Component Comment: Designator=C2 Old Comment==ValueManufacturerPartNumber New Comment=Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Change Component Comment: Designator=C3 Old Comment==ValueManufacturerPartNumber New Comment=Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Change Component Comment: Designator=C6 Old Comment==ValueManufacturerPartNumber New Comment=Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Change Component Comment: Designator=C7 Old Comment==ValueManufacturerPartNumber New Comment=Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Change Component Comment: Designator=C21 Old Comment==ValueManufacturerPartNumber New Comment=Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Change Component Comment: Designator=C23 Old Comment==ValueManufacturerPartNumber New Comment=Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Change Component Comment: Designator=C16 Old Comment==ValueManufacturerPartNumber New Comment=Ceramic capacitor, 6.8pF, X7R, ±10%, 16V, 0805, -55...+125°C
+Change Component Comment: Designator=C17 Old Comment==ValueManufacturerPartNumber New Comment=Ceramic capacitor, 6.8pF, X7R, ±10%, 16V, 0805, -55...+125°C
+Change Component Comment: Designator=C19 Old Comment==ValueManufacturerPartNumber New Comment=Ceramic capacitor, 6.8pF, X7R, ±10%, 16V, 0805, -55...+125°C
+Change Component Comment: Designator=C20 Old Comment==ValueManufacturerPartNumber New Comment=Ceramic capacitor, 6.8pF, X7R, ±10%, 16V, 0805, -55...+125°C
+Change Component Comment: Designator=R4 Old Comment==ValueManufacturerPartNumber New Comment=Resistor film, 560R, ±5%, 0805, 0.125W, -55...+125°C
+Change Component Comment: Designator=R5 Old Comment==ValueManufacturerPartNumber New Comment=Resistor film, 560R, ±5%, 0805, 0.125W, -55...+125°C
+Change Component Comment: Designator=R6 Old Comment==ValueManufacturerPartNumber New Comment=Resistor film, 560R, ±5%, 0805, 0.125W, -55...+125°C
+Change Component Comment: Designator=R9 Old Comment==ValueManufacturerPartNumber New Comment=Resistor film, 1k, ±5%, 0805, 0.125W, -55...+125°C
+Change Component Comment: Designator=R10 Old Comment==ValueManufacturerPartNumber New Comment=Resistor film, 1k, ±5%, 0805, 0.125W, -55...+125°C
+Change Component Comment: Designator=R11 Old Comment==ValueManufacturerPartNumber New Comment=Resistor film, 1k, ±5%, 0805, 0.125W, -55...+125°C
+Change Component Comment: Designator=R12 Old Comment==ValueManufacturerPartNumber New Comment=Resistor film, 1k, ±5%, 0805, 0.125W, -55...+125°C
+Change Net Color : Net Name= GND Old Net Color=Black New Net Color=Default

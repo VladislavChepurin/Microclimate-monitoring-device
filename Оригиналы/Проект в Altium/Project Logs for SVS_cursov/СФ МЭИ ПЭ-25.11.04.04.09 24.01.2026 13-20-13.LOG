@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND2 Pin=X2-4
+Change Net Name : Old Net Name=GND2 New Net Name=GND_ISO
+Added Pin To Net: NetName=GND2 Pin=X2-4
+Added Net: Name=GND2
+Added Rule: Name=Schematic Supply Nets_2
